@@ -32,4 +32,6 @@ const app = new Vue({
       this.tareas = datosDB;
     }
   }
+
+
 });
